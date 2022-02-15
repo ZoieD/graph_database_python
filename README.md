@@ -1,0 +1,1 @@
+Refer to [python从零开始构建知识图谱](https://zhuanlan.zhihu.com/p/243211697) to practice on using spaCy to build graph database.
